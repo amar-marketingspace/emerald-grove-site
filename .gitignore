@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+
+.env
+.env.*
+!.env.example
+
+sanity-studio/node_modules/
+sanity-studio/dist/
+
+.DS_Store
+Thumbs.db
+.vscode/
